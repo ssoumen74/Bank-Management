@@ -1,0 +1,7 @@
+This is a simple project on Bank Management
+It uses only core java to create all visual effects and no use of visual editors is made.
+The whole project is developed on ECLIPSE NEON so the path i declared for used images 
+is a bit long and may have issues from command prompt compilation.
+
+To simplyfy the process i am also attaching a pdf version which shows the highlight of
+the project.
